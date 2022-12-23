@@ -345,6 +345,7 @@ class _VideosListState extends State<VideosList> {
       child: Scaffold(
         resizeToAvoidBottomInset: false,
         appBar: PreferredSize(
+          
           preferredSize: const Size.fromHeight(40.0),
           
           child: AppBar(
